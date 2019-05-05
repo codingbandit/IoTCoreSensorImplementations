@@ -1,4 +1,4 @@
-# HIH8100 Honeywell Humidity and Temperature Sensor
+# HIH8120 Honeywell Humidity and Temperature Sensor
 ## BOM
 QTY 1 - HIH8120-021 SIP (Digikey) [Cut Tape](https://www.digikey.com/product-detail/en/honeywell-sensing-and-productivity-solutions/HIH8120-021-001/480-5706-1-ND/4291621)
 
