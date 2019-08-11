@@ -1,6 +1,6 @@
 # MCP23017 16-bit I/O Port Expander
 
-While the MCP23017 is an IC and not a sensor, it is a handy implementation to hang around. This IC allows you to add 16 GPIO pins through I2C. This is not a full implementation, the interrupt functionality isn't written, but is sufficient to do basic GPIO input/output with read and writes.
+While the MCP23017 is an IC and not a sensor, but it is a handy implementation to hang around. This IC allows you to add 16 GPIO pins through I2C. This is not a full implementation, the interrupt functionality isn't written, but is sufficient to do basic GPIO input/output with read and writes.
 
 Use this class to first initialize the IC, then set the pins drive mode to input or output, finally read and write to your heart's content. 
 
